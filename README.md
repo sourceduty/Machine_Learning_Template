@@ -6,6 +6,8 @@
 
 Create and customize machine learning model templates.
 
+.txt output
+
 #
 
 Copyright (c) 2023, Sourceduty
